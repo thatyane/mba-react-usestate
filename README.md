@@ -18,3 +18,10 @@ npm run dev
 ## Objetivo
 
 Atender ao enunciado da atividade com um exemplo basico, claro e funcional usando estado local em um componente React.
+
+## Grupo
+
+- Thatyane Pontes
+- Wagner Luan
+- Cleber leite
+- Jefferson Guerra
